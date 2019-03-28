@@ -1,0 +1,3 @@
+rootProject.name = 'lengua_de_sapo_1725'
+
+include ':app'
